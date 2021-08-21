@@ -1,5 +1,5 @@
 - Olá, me chamo Lucas Reis
-- No momento watou aprimorando minhas habilidades em:
+- No momento estou aprimorando minhas habilidades em:
 - Python, Java e C++
 - ...
 - ...
