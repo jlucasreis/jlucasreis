@@ -1,8 +1,8 @@
 - Olá, me chamo Lucas Reis
-- 
-- 
-- 
-- 
+- No momento watou aprimorando minhas habilidades em:
+- Python, Java e C++
+- ...
+- ...
 
  <div>
   <a href="https://github.com/arnuip01">
