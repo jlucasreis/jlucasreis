@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arnuip01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Olá, me chamo Lucas Reis
+- 
+- 
+- 
+- 
 
  <div>
   <a href="https://github.com/arnuip01">
