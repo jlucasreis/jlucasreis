@@ -1,6 +1,6 @@
 - Olá, me chamo Lucas Reis
 - No momento estou aprimorando minhas habilidades em:
-- Python, Java e C++
+- Python, Java e ...
 - ...
 - ...
 
@@ -12,7 +12,6 @@
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Lucas-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
  
