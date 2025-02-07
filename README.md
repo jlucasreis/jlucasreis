@@ -29,6 +29,6 @@
  </div>
  
 <!---
-arnuip01/arnuip01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jlucasreis/jlucasreis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
