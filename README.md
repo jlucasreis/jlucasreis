@@ -5,7 +5,8 @@
 - ...
 
  <div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jlucasreis&theme=dark&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+  <div> <a href="https://github.com/jlucasreis"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlucasreis&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-     stats.vercel.app/api/top-langs/?username=jlucasreis&layout=compact&langs_count=7&theme=great-gatsby"/> </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasreis&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
