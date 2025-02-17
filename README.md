@@ -26,6 +26,21 @@
  </div>
  
  </br>  
+
+ ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkxNWt2bjEybDIxcXZ4Z2ZjbXBzejc0ZDgwMmE0ZnUzc3I4MmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> **Github Stats:**
+
+<details>
+  <summary>📊 <b>Github Readme Stats</b></summary>
+ <br />
+ <p align="center">
+  <a href="https://github.com/jlucasreis">
+    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=jlucasreis&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true">
+  </a>
+  <a href="https://github.com/jlucasreis/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasreis&layout=compact&langs_count=5&theme=codeSTACKr" />
+  </a>
+ </p>
+</details>
  
  <div> 
   <a href = "https://www.joselsilvareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
