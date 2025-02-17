@@ -1,3 +1,6 @@
+
+<h1 align="center">Olá👋, Bem vindo ao meu Perfil </h1>
+
 - 🤓 Olá, me chamo Lucas Reis
 - 🪴 No momento estou aprimorando minhas habilidades em:
 - 📝 Python, Java, HTML5, MySQL, C++ ...
@@ -18,7 +21,7 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
  </div>
  
- ##
+ </br>  
  
  <div> 
   <a href = "https://www.joselsilvareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
