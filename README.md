@@ -10,7 +10,7 @@
 
 </br>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Linguagens e Tecnologias**: 
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **Linguagens e Tecnologias**: 
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,7 +21,7 @@
  
  </br>  
 
- ## <img   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkxNWt2bjEybDIxcXZ4Z2ZjbXBzejc0ZDgwMmE0ZnUzc3I4MmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> **Github Stats:**
+ ## <img   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkxNWt2bjEybDIxcXZ4Z2ZjbXBzejc0ZDgwMmE0ZnUzc3I4MmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **Github Stats:**
 
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
@@ -49,7 +49,7 @@
 
  </br>
  
- ## <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwdmFnZjU5bDVtdjU1YjVnY2ozMHRmbm9yd2NlczlkN3RkOTRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxIRHvYYyFT5m/giphy.gif" width="40"> **Snake**:
+ ## <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwdmFnZjU5bDVtdjU1YjVnY2ozMHRmbm9yd2NlczlkN3RkOTRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxIRHvYYyFT5m/giphy.gif" width="30"> **Snake**:
  ![Snake animation](https://github.com/jlucasreis/jlucasreis/blob/output/github-contribution-grid-snake.svg)
   
  </div>
