@@ -11,8 +11,7 @@
 </br>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Linguagens e Tecnologias**: 
-
- <div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
@@ -22,11 +21,11 @@
  
  </br>  
 
- ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkxNWt2bjEybDIxcXZ4Z2ZjbXBzejc0ZDgwMmE0ZnUzc3I4MmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> **Github Stats:**
+ ## <img   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkxNWt2bjEybDIxcXZ4Z2ZjbXBzejc0ZDgwMmE0ZnUzc3I4MmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> **Github Stats:**
 
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
- <br />
+ <br/>
  <p align="center">
   <a href="https://github.com/jlucasreis">
     <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=jlucasreis&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true">
@@ -36,12 +35,21 @@
   </a>
  </p>
 </details>
+
+<details>
+  <br/>
+  <summary>📞 <b> Contato</b></summary>
+  	<ul>
+  	   <div> 
+   <a href="https://www.joselsilvareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+   <a href="https://www.linkedin.com/in/lucas-reis-1969/b01b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	  <br/>
+	</ul>
+</details>
+
+ </br>
  
- <div> 
-  <a href="https://www.joselsilvareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-reis-1969/b01b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwdmFnZjU5bDVtdjU1YjVnY2ozMHRmbm9yd2NlczlkN3RkOTRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxIRHvYYyFT5m/giphy.gif" width="40"> **Snake**:
+ ## <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwdmFnZjU5bDVtdjU1YjVnY2ozMHRmbm9yd2NlczlkN3RkOTRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxIRHvYYyFT5m/giphy.gif" width="40"> **Snake**:
  ![Snake animation](https://github.com/jlucasreis/jlucasreis/blob/output/github-contribution-grid-snake.svg)
   
  </div>
