@@ -38,9 +38,10 @@
 </details>
  
  <div> 
-  <a href = "https://www.joselsilvareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.joselsilvareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-reis-1969/b01b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
+ ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwdmFnZjU5bDVtdjU1YjVnY2ozMHRmbm9yd2NlczlkN3RkOTRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxIRHvYYyFT5m/giphy.gif" width="40"> **Snake**:
  ![Snake animation](https://github.com/jlucasreis/jlucasreis/blob/output/github-contribution-grid-snake.svg)
   
  </div>
