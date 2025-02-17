@@ -1,4 +1,4 @@
-## <p align="center"> Olá👋, Bem vindo ao meu Perfil </h1>
+## <p align="center"> Olá, Bem vindo ao meu Perfil 👍 </h1>
 
  <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92b24xaDFycDZ3eTNnMHpiMDYydW5oMHhqdjU5ajltdmk5NnluaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif">
 
