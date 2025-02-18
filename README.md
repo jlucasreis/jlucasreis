@@ -1,6 +1,6 @@
 ## <p align="center"> Olá, Bem vindo ao meu Perfil 👍 </h1>
 
- <img align="right" alt="coding" width="215" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRieGZzMjU0ZXhwaGw1MjZienFhaHU3YWxzdnhiNDNhcjhwbGdwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif">
+ <img align="right" alt="coding" width="210" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRieGZzMjU0ZXhwaGw1MjZienFhaHU3YWxzdnhiNDNhcjhwbGdwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif">
 
 - 🤓 Olá, me chamo Lucas Reis
 - 🪴 No momento estou aprimorando minhas habilidades em:
