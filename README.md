@@ -49,7 +49,7 @@
 
  </br>
  
- ## <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwdmFnZjU5bDVtdjU1YjVnY2ozMHRmbm9yd2NlczlkN3RkOTRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxIRHvYYyFT5m/giphy.gif" width="30"> **Snake**:
+## <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwdmFnZjU5bDVtdjU1YjVnY2ozMHRmbm9yd2NlczlkN3RkOTRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxIRHvYYyFT5m/giphy.gif" width="30"> **Snake**:
  ![Snake animation](https://github.com/jlucasreis/jlucasreis/blob/output/github-contribution-grid-snake.svg)
   
  </div>
