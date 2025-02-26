@@ -21,7 +21,7 @@
  
  </br>  
 
- ## <img   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkxNWt2bjEybDIxcXZ4Z2ZjbXBzejc0ZDgwMmE0ZnUzc3I4MmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **Github Stats:**
+## <img   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkxNWt2bjEybDIxcXZ4Z2ZjbXBzejc0ZDgwMmE0ZnUzc3I4MmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **Github Stats:**
 
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
