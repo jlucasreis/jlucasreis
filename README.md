@@ -1,6 +1,6 @@
 ## <p align="center"> Olá, Bem vindo ao meu Perfil 👍 </h1>
 
- <img align="right" alt="coding" width="210" src="https://tenor.com/h7spQ5Saebi.gif">
+ <img align="right" alt="coding" width="210" src= "https://m.media-amazon.com/images/I/41yrdbFCVUL._AC_SY535_.jpg" />
 
 - 🤓 Olá, me chamo Lucas Reis
 - 🪴 No momento estou aprimorando minhas habilidades em:
