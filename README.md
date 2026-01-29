@@ -1,4 +1,4 @@
-## <p align="center"> Olá, Bem vindo ao meu Perfil 👍 </h1>
+## <h1 align="center"> Olá, Bem-vindo ao meu Perfil 👍 </h1>
 
  <p align="center">
   <img src="/.images/tux-linux-penguin.gif" align="center" >
@@ -9,11 +9,12 @@
 - 📝 Python, Java, HTML5, MySQL, Go ...
 - ...
 - 🛠️ Em construção
+</p>
 
-</br>
+<br/>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **Linguagens e Tecnologias**: 
-  <div style="display: inline_block"><br>
+  <div style="display: inline-block"><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
@@ -21,7 +22,7 @@
   <img align="center" alt="Lucas-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
  </div>
  
- </br>  
+ <br/>  
 
 ## <img   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkxNWt2bjEybDIxcXZ4Z2ZjbXBzejc0ZDgwMmE0ZnUzc3I4MmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **Github Stats:**
 
@@ -49,7 +50,7 @@
 	</ul>
 </details>
 
- </br>
+ <br/>
  
 ## <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwdmFnZjU5bDVtdjU1YjVnY2ozMHRmbm9yd2NlczlkN3RkOTRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxIRHvYYyFT5m/giphy.gif" width="30"> **Snake**:
  ![Snake animation](https://github.com/jlucasreis/jlucasreis/blob/output/github-contribution-grid-snake.svg)
