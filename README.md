@@ -29,12 +29,7 @@
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br/>
- <p align="center">
-  <a href="https://github.com/jlucasreis">
-    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=jlucasreis&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=true">
-  </a>
-  <a href="https://github.com/jlucasreis/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasreis&layout=compact&langs_count=5&theme=codeSTACKr" />
+
   </a>
  </p>
 </details>
