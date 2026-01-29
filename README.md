@@ -1,7 +1,7 @@
 ## <h1 align="center"> Olá, Bem-vindo ao meu Perfil 👍 </h1>
 
  <p align="center">
-  <img src="/.images/tux-linux-penguin.gif" align="center" >
+  <img src="/.images/tux-linux-penguin.gif" align="center" alt="Tux Penguin" >
  </p>
 
 - 🤓 Olá, me chamo Lucas Reis
@@ -9,12 +9,11 @@
 - 📝 Python, Java, HTML5, MySQL, Go ...
 - ...
 - 🛠️ Em construção
-</p>
 
 <br/>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **Linguagens e Tecnologias**: 
-  <div style="display: inline-block"><br>
+  <div style="display: inline-block">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
